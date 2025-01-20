@@ -1,0 +1,18 @@
+venv/
+model/
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore directories with generated output
+trials/
+segmented_objects/
+
+# Ignore temporary files
+*.log

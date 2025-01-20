@@ -1,0 +1,8 @@
+playwright
+Pillow
+opencv-python
+ultralytics
+matplotlib
+opencv-python-headless
+pandas
+aiofiles
